@@ -1,5 +1,4 @@
-
-![Uploading logo.gif…]()
+Google Play Store Analysis Using Python, SQL, & Power BI
 
 ➤ Objectives
 
