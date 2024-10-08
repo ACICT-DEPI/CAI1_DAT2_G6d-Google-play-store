@@ -1,4 +1,6 @@
 
+![Uploading logo.gif…]()
+
 ➤ Objectives
 
 This project aims to analyze the Google Play Store Apps dataset to derive insights into the app market. We aim to understand the factors that contribute to an app's success, including user ratings, reviews, and categories. Exploring user sentiments towards apps through the analysis of the user reviews dataset will provide insights into the popularity of app categories based on total installs and the sentiment polarity of user reviews. The ultimate objective is to offer recommendations for app developers to enhance their app's performance and user satisfaction.
